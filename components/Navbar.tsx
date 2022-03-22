@@ -69,7 +69,8 @@ export default function Navbar({ items }: NavbarProps) {
       <Content>
         <NextLink href="/" passHref>
           <LogoWrapper>
-            <Logo />
+            <h1>🚀⚡G2C2G⚡🚀</h1>
+            {/* <Logo /> */}
           </LogoWrapper>
         </NextLink>
         <NavItemList>

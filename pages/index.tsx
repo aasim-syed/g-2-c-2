@@ -17,7 +17,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
   return (
     <>
       <Head>
-        <title>{EnvVars.SITE_NAME}</title>
+        <title>🚀⚡G2C2G ⚡🚀</title>
         <meta
           name="description"
           content="Tempor nostrud velit fugiat nostrud duis incididunt Lorem deserunt est tempor aute dolor ad elit."
@@ -26,25 +26,24 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
       <HomepageWrapper>
         <WhiteBackgroundContainer>
           <Hero />
-          <Partners />
-          <BasicSection imageUrl="/demo-illustration-1.svg" title="Lorem ipsum dolor sit amet consectetur." overTitle="sit amet gogo">
+          {/* <Partners /> */}
+          <BasicSection imageUrl="/demo-illustration-1.svg" title="THE PROBLEM DESCRIPTION!." overTitle="---------------------------------------">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore
-              voluptate quo deleniti animi laboriosam.{' '}
-              <Link href="/help-center">Possimus ullam velit rem itaque consectetur, in distinctio?</Link> Lorem ipsum, dolor sit amet
-              consectetur adipisicing elit. Soluta repellendus quia quos obcaecati nihil. Laudantium non accusantium, voluptate eum nesciunt
-              at suscipit quis est soluta?
+            Web-based system for dissemination of flood forecasts was operationalized by CWC in 2014 with information being made available on near real time basis (Ref: https://ffs.tamcnhp.com/). In addition to this, CWC has partnered with Google to disseminate the flood warning through its Public Alert platform. An additional channel to reach out to the end beneficiaries is through deployment of real time messaging service of flood forecasts soon after their generation with opt-in option for end users as well as provision for blanket area specific messaging in affected areas. End beneficiaries can in turn help in crowd sourcing of information related to inundation with geo tagged as well as time stamped images and information related to water levels. Such crowd sourced data can help in ground truthing of inundation for known events of floods which will enable in future endeavours of generation of flood inundation forecasts and flood plain zonation.
+.{' '}
+              <Link href="/help-center">ffs.tamcnhp.com</Link> 
             </p>
           </BasicSection>
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="Our solution🤔" overTitle="" reversed>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
-              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
-            </p>
+              We have come up with various additional solutions as well{' '}<br/>
+              <strong>But our main focus will be on the core of problem statement </strong>.             </p>
             <ul>
-              <li>Professional point 1</li>
-              <li>Professional remark 2</li>
-              <li>Professional feature 3</li>
+              <li>BASED ON THE DATA GATHERED THROUGH CROWD SOURCING WE WILL CLASSIFY AREAS ACCORDING ALERT LEVELS AND SEND APPROPRIATE MESSAGES AND HELP.</li>
+              <li>WITH THE IoT PLACED AT ALL WATER RESOURCES AND FLOOD PRONE AREAS,WHICH WILL BE PROGRAMMED TO SEND DISTRESSING SIGNALS WHEN THERE IS A SUDDEN RISE IN WATER LEVELS.
+</li>
+              <li>WITH THE IoT PLACED AT ALL WATER RESOURCES AND FLOOD PRONE AREAS,WHICH WILL BE PROGRAMMED TO SEND DISTRESSING SIGNALS WHEN THERE IS A SUDDEN RISE IN WATER LEVELS.
+</li>
             </ul>
           </BasicSection>
         </WhiteBackgroundContainer>
