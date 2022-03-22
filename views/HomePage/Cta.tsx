@@ -16,8 +16,7 @@ export default function Cta() {
           <OverTitle></OverTitle>
           <SectionTitle>Get lightning  fast⚡ real-time <br/> regular alerts🔔🚀</SectionTitle>
           <Description>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda beatae accusamus deleniti nihil quas tempora numquam, vitae
-            culpa.
+            
           </Description>
           <ButtonGroup>
             <NextLink href="#early-access" passHref>
