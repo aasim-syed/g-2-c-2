@@ -18,7 +18,7 @@ const TABS = [
     secondColor: '221,9,57',
   },
   {
-    title: 'Another amazing feature',
+    title: 'Full fledged AI prediction to provide accurate results and alerts🤖⚡',
     description:
       '<p>Secret 🤫</p>',
     imageUrl: '/demo-illustration-4.png',
