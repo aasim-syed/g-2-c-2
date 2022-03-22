@@ -20,7 +20,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <title>🚀⚡G2C2G ⚡🚀</title>
         <meta
           name="description"
-          content="Tempor nostrud velit fugiat nostrud duis incididunt Lorem deserunt est tempor aute dolor ad elit."
+          content="Two-way mobile communication (G2C and C2G) for dissemination of flood forecasts to end users and collection of real time data of inundation area through crowdsourcing."
         />
       </Head>
       <HomepageWrapper>

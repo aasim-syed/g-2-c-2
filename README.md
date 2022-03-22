@@ -1,10 +1,10 @@
 <br/>
 <p align="center">
 
-  <a href="https://github.com/Blazity/next-saas-starter" >
+  <a href="https://github.com/aasim-syed" >
     <img src="https://i.imgur.com/jmc2Q1w.png" alt="Logo"  width="49%">
   </a>
-   <a href="https://github.com/Blazity/next-saas-starter">
+   <a href="https://github.com/aasim-syed">
     <img src="https://i.imgur.com/CxkjHhi.png" alt="Logo" width="49%">
   </a>
 
@@ -14,22 +14,13 @@
     Everything you need to build a great landing page / marketing website for your startup. Great SEO metrics, Green WebVitals, 🚀 Performance, Clean & Pragmatic Codebase out of the box.
     <br/>
     <br/>
-    <a href="https://next-saas-starter-ashy.vercel.app/">View Demo</a>
+    <a href="https://g-2-c-2.vercel.app/">View Demo</a>
     .
-    <a href="https://github.com/Blazity/next-saas-starter/issues">Report Bug</a>
-    .
-    <a href="https://github.com/Blazity/next-saas-starter/issues">Request Feature</a>
+
   </p>
 </p>
 
-<div align="center">
 
-![Contributors](https://img.shields.io/github/contributors/Blazity/next-saas-starter?color=dark-green) ![Issues](https://img.shields.io/github/issues/Blazity/next-saas-starter) ![License](https://img.shields.io/github/license/Blazity/next-saas-starter)
-
-</div>
-
-<p align="center"><b>Created with :heart: at Blazity </b></p>
-<p align="center"><a href="https://blazity.com/">Blazity</a> is a group of Next.js/Jamstack/Headless experts. Contact us at <a href="mailto:contact@blazity.com">contact@blazity.com</a> if you’d like to talk about your project or just to have a chat with us :grin:</p>
 
 ## Table Of Contents
 
@@ -123,28 +114,7 @@ Big thanks to authors of these libraries:
 
 ## ✨ Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://bstefanski.com/"><img src="https://avatars.githubusercontent.com/u/28964599?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Bart Stefanski</b></sub></a><br /><a href="https://github.com/Blazity/next-saas-starter/commits?author=bmstefanski" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/ilasota"><img src="https://avatars.githubusercontent.com/u/34578189?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Igor Lasota</b></sub></a><br /><a href="https://github.com/Blazity/next-saas-starter/commits?author=ilasota" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/jbryn"><img src="https://avatars.githubusercontent.com/u/52970664?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Jan Bryński</b></sub></a><br /><a href="https://github.com/Blazity/next-saas-starter/commits?author=jbryn" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.logana.dev/"><img src="https://avatars.githubusercontent.com/u/43075109?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Logan Anderson</b></sub></a><br /><a href="https://github.com/Blazity/next-saas-starter/commits?author=logan-anderson" title="Code">💻</a> <a href="https://github.com/Blazity/next-saas-starter/commits?author=logan-anderson" title="Documentation">📖</a> <a href="#mentoring-logan-anderson" title="Mentoring">🧑‍🏫</a></td>
-    <td align="center"><a href="https://github.com/fdukat"><img src="https://avatars.githubusercontent.com/u/87642690?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Filip Dukat</b></sub></a><br /><a href="https://github.com/Blazity/next-saas-starter/commits?author=fdukat" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## 📝 License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Blazity/next-saas-starter/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See for more information.
