@@ -21,11 +21,16 @@ export default function Hero() {
         </Description>
         <CustomButtonGroup>
           <Button onClick={() => setIsModalOpened(true)}>
-            Get latest alerts🔔 <span>&rarr;</span>
+            Newsletter🤖🔔 <span>&rarr;</span>
           </Button>
-          <NextLink href="#whitepaper" passHref>
+          <NextLink href="https://kp17mbji4lv.typeform.com/to/DzlpFhiK" passHref>            
             <Button transparent>
-              Features <span>&rarr;</span>
+              FILL IN DETAILS⚡🚀 <span>&rarr;</span>
+            </Button>
+          </NextLink>
+          <NextLink href="https://g2c2-chatbot.netlify.app" passHref>            
+            <Button transparent>
+             Chatbot🤖⚡ <span>&rarr;</span>
             </Button>
           </NextLink>
         </CustomButtonGroup>

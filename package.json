@@ -1,5 +1,5 @@
 {
-  "name": "next-saas-starter",
+  "name": "G2C2",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,6 +15,8 @@
     "@svgr/webpack": "^5.5.0",
     "css-in-js-media": "^2.0.1",
     "date-fns": "^2.24.0",
+    "google-spreadsheet": "^3.2.0",
+    "googleapis": "^97.0.0",
     "gray-matter": "^4.0.3",
     "lodash": "^4.17.21",
     "next": "12.0.11-canary.15",

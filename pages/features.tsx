@@ -74,6 +74,7 @@ export default function FeaturesPage() {
             <BasicCard key={singleFeature.title} {...singleFeature} />
           ))}
         </CustomAutofitGrid>
+        
       </Wrapper>
     </Page>
   );
