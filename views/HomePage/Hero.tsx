@@ -33,6 +33,11 @@ export default function Hero() {
              Chatbot🤖⚡ <span>&rarr;</span>
             </Button>
           </NextLink>
+          <NextLink href="https://aasim-syed.github.io/Map-/" passHref>            
+            <Button transparent>
+             Predictor Maps🗺️  <span>&rarr;</span>
+            </Button>
+          </NextLink>
         </CustomButtonGroup>
       </Contents>
       <ImageContainer>
