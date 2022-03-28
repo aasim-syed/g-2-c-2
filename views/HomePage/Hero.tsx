@@ -39,6 +39,11 @@ export default function Hero() {
              Map🗺️⚡ <span>&rarr;</span>
             </Button>
           </NextLink>
+          <NextLink href="https://aasim-syed.github.io/Map-/" passHref>            
+            <Button transparent>
+             
+            </Button>
+          </NextLink>
         </CustomButtonGroup>
       </Contents>
       <ImageContainer>
