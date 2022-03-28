@@ -28,14 +28,15 @@ export default function Hero() {
               FILL IN DETAILS⚡🚀 <span>&rarr;</span>
             </Button>
           </NextLink>
-          <NextLink href="https://g2c2-chatbot.netlify.app" passHref>            
+          <NextLink href="https://g2c2-chatbot.netlify.app
+          " passHref>            
             <Button transparent>
              Chatbot🤖⚡ <span>&rarr;</span>
             </Button>
           </NextLink>
           <NextLink href="https://aasim-syed.github.io/Map-/" passHref>            
             <Button transparent>
-             Predictor Maps🗺️  <span>&rarr;</span>
+             Map🗺️⚡ <span>&rarr;</span>
             </Button>
           </NextLink>
         </CustomButtonGroup>
